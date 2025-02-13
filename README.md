@@ -23,8 +23,8 @@ This project focuses on detecting fraudulent transactions by analyzing financial
 ### [MNIST dataset using f-GANs](https://github.com/FChen-Lab/mnist-f-gans-project)
 This project focuses on the generation of handwritten digit images using f-GANs (f-divergence Generative Adversarial Networks). The model was developed to generate realistic images from the MNIST dataset, experimenting with various f-divergences like KL-divergence and JS-divergence to study their impact on image quality and precision-recall trade-offs. The project includes training, evaluation, and analysis of generated samples.
 
-- **Technologies Used: Python, PyTorch, Matplotlib, Seaborn, NumPy, Pandas
-- **Key Achievement: Developed an effective f-GAN-based generator to produce high-quality handwritten digits, providing valuable insights into the effect of different divergences on generative models.
+- **Technologies Used**: Python, PyTorch, Matplotlib, Seaborn, NumPy, Pandas
+- **Key Achievement**: Developed an effective f-GAN-based generator to produce high-quality handwritten digits, providing valuable insights into the effect of different divergences on generative models.
 
 
 ### [Real Estate Price Prediction](https://github.com/FChen-Lab/real-estate-price-prediction-challenge)
